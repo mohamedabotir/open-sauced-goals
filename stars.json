@@ -1,39 +1,39 @@
 [
   {
     "full_name": "entityframeworktutorial/EF6-Code-First-Demo",
-    "stargazers_count": 125,
+    "stargazers_count": 127,
     "open_issues_count": 0,
-    "forks_count": 138
+    "forks_count": 139
   },
   {
     "full_name": "csharpfritz/csharp_with_csharpfritz",
-    "stargazers_count": 396,
-    "open_issues_count": 9,
-    "forks_count": 117
+    "stargazers_count": 405,
+    "open_issues_count": 10,
+    "forks_count": 116
   },
   {
     "full_name": "moq/moq4",
-    "stargazers_count": 4427,
-    "open_issues_count": 37,
+    "stargazers_count": 4429,
+    "open_issues_count": 36,
     "forks_count": 642
   },
   {
     "full_name": "markjprice/cs8dotnetcore3",
-    "stargazers_count": 214,
+    "stargazers_count": 215,
     "open_issues_count": 5,
-    "forks_count": 264
+    "forks_count": 265
   },
   {
     "full_name": "MoienTajik/AspNetCore-Developer-Roadmap",
-    "stargazers_count": 9454,
+    "stargazers_count": 9528,
     "open_issues_count": 1,
-    "forks_count": 1487
+    "forks_count": 1494
   },
   {
     "full_name": "hussien89aa/DataStructureAndAlgorithms",
-    "stargazers_count": 627,
+    "stargazers_count": 631,
     "open_issues_count": 24,
-    "forks_count": 2370
+    "forks_count": 2375
   },
   {
     "full_name": "sealedtx/java-youtube-downloader",
@@ -43,21 +43,21 @@
   },
   {
     "full_name": "SamyPesse/How-to-Make-a-Computer-Operating-System",
-    "stargazers_count": 19698,
+    "stargazers_count": 19704,
     "open_issues_count": 84,
     "forks_count": 3361
   },
   {
     "full_name": "geosolutions-it/geostore",
     "stargazers_count": 23,
-    "open_issues_count": 52,
+    "open_issues_count": 53,
     "forks_count": 62
   },
   {
     "full_name": "jhu-ep-coursera/fullstack-course4",
-    "stargazers_count": 7131,
+    "stargazers_count": 7164,
     "open_issues_count": 3,
-    "forks_count": 9694
+    "forks_count": 9712
   },
   {
     "full_name": "mohamedabotir/Teaching",
@@ -67,14 +67,14 @@
   },
   {
     "full_name": "DrWaleedAYousef/Teaching",
-    "stargazers_count": 646,
+    "stargazers_count": 647,
     "open_issues_count": 0,
-    "forks_count": 255
+    "forks_count": 256
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 106001,
-    "open_issues_count": 12,
-    "forks_count": 14553
+    "stargazers_count": 106213,
+    "open_issues_count": 16,
+    "forks_count": 14582
   }
 ]
